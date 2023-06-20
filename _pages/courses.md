@@ -1,10 +1,8 @@
 ---
+layout: archive
 permalink: /courses/
 title: "Courses Taken"
 author_profile: true
-redirect_from: 
-  - /courses/
-  - /courses.html
 ---
 
 ### First year courses at UCSD:
