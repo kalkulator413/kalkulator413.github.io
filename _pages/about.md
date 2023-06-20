@@ -13,5 +13,5 @@ Hi! I'm an undergraduate student at UCSD. I'm generally insterested in signals, 
 You can email me at: fkalkin at ucsd dot edu
 
 
-- <a href='files/sum.pdf' target="_blank">here</a> is a cool derivation for $\sum_{n=1}^{\infty} \dfrac{\sin(xn)}{n}$
+- <a href='files/sum.pdf' target="_blank">here</a> is a cool derivation for $\displaystyle\sum\limits_{n=1}^{\infty} \dfrac{\sin(xn)}{n}$
 - <a href='https://vcapes.github.io' target="_blank">here</a> is a GPA visualization for UCSD courses
