@@ -8,8 +8,8 @@ date: 2023-04-01
 location: "La Jolla, CA"
 ---
 
-Undergraduate tutor for DSC 30. Proctored exams, conducted weekly office hours, answered questions on the online class forum, and developed and graded assignments.
+Undergraduate tutor for DSC 30: Data Structures and Algorithms for Data Science. Proctored exams, conducted weekly office hours, answered questions on the online class forum, and developed and graded assignments.
 
-Student evaluations available [here](files/dsc30sp23.pdf)
+Student evaluations available [here](files/dsc30sp23.pdf).
 
-Made a B-tree search/insertion/deletion demo available [here](https://dsc30-btree.github.io/)
+Made a B-tree search/insertion/deletion demo available <a href='https://dsc30-btree.github.io' target="_blank">here</a>.
