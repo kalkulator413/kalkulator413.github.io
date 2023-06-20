@@ -33,5 +33,6 @@ author_profile: true
 
 - HUM 1: Israel and Greece (A)
 - HUM 2: Rome, Christianity, and the Middle Ages (A-)
-- REV 20: Freshman Honors Seminar (P)
 - CHEM 6A: General Chemistry I (A)
+- REV 20: Freshman Honors Seminar (P)
+
