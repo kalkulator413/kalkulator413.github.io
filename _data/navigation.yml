@@ -4,10 +4,13 @@ main:
   #   url: /publications/   
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+    target: 
     
   - title: "Resume"
     url: /files/Fnu_Kalkin_resume.pdf
+    target: "_blank"
 
   - title: "Courses Taken"
     url: /courses/
+    target: 

@@ -7,8 +7,6 @@ author_profile: true
 
 ### First year courses at UCSD:
 
-<br>
-
 - MATH 109: Discrete Math (A+)
 - MATH 158: Extremal Graph Theory and Combinatorics (A)
 
