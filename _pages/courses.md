@@ -21,7 +21,7 @@ author_profile: true
 - CSE 15L: Intro to UNIX/Shell Scripting (A+)
 - CSE 30: Systems Programming (A+)
 - CSE 100: Advanced Data Structures (A+)
-- CSE 151B: Deep Learning (A+)
+- CSE 151B: Deep Learning (A)
 
 <!-- -->
 
