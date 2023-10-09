@@ -8,8 +8,8 @@ author_profile: true
 ### Courses at UCSD:
 
 - MATH 109: Discrete Math (A+)
-- MATH 158: Extremal Graph Theory and Combinatorics (A)
 - MATH 140A: Real Analysis I (Planned FA23)
+- MATH 158: Extremal Graph Theory and Combinatorics (A)
 
 <!-- -->
 
