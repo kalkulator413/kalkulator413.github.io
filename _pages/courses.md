@@ -9,15 +9,18 @@ author_profile: true
 
 - MATH 109: Discrete Math
 - MATH 140A: Real Analysis I
+- MATH 140B: Real Analysis II (Planned)
 - MATH 158: Extremal Graph Theory and Combinatorics
 
 <!-- -->
 
 - ECE 35: Analog Circuit Analysis
 - ECE 45: Signals and Systems
+- ECE 65: Components and Circuits Lab (Planned)
 - ECE 101: Linear Systems Fundamentals
 - ECE 109: Probability and Statistics
 - ECE 174: Optimization
+- ECE 250: Random Processes (Planned)
 
 <!-- -->
 
@@ -38,6 +41,7 @@ author_profile: true
 - HUM 1: Israel and Greece
 - HUM 2: Rome, Christianity, and the Middle Ages
 - HUM 3: Renaissance, Reformation, and Early Modern Europe
+- HUM 4: Enlightenment, Romanticism, Revolution
 - REV 20: Freshman Honors Seminar
 - SIO 199: Independent Study
 
