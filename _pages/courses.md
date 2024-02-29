@@ -7,9 +7,11 @@ author_profile: true
 
 ### Courses at UCSD:
 
+- MATH 20E: Vector Calculus (PL)
 - MATH 109: Discrete Math (A+)
 - MATH 140A: Real Analysis I (A)
 - MATH 140B: Real Analysis II (IP)
+- MATH 140C: Real Analysis III (PL)
 - MATH 158: Extremal Graph Theory and Combinatorics (A)
 
 <!-- -->
@@ -27,6 +29,8 @@ author_profile: true
 - CSE 15L: Intro to UNIX/Shell Scripting (A+)
 - CSE 30: Systems Programming (A+)
 - CSE 100: Advanced Data Structures (A+)
+- CSE 140: Digital Logic (PL)
+- CSE 140L: Digital Systems Laboratory (PL)
 - CSE 151B: Deep Learning (A+)
 
 <!-- -->
@@ -42,6 +46,7 @@ author_profile: true
 - HUM 2: Rome, Christianity, and the Middle Ages (A-)
 - HUM 3: Renaissance, Reformation, and Early Modern Europe (B+)
 - HUM 4: Enlightenment, Romanticism, Revolution (IP)
+- MUS 17: Hip Hop (PL)
 - REV 20: Freshman Honors Seminar (P)
 - SIO 199: Independent Study (P)
 
