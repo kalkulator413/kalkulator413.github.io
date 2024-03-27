@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-- Tutor for DSC 30 @ UCSD (SP23, FA23, WI24)
+- Tutor for DSC 30 @ UCSD (SP23, FA23, WI24, SP24)
 
 <!-- {% include base_path %}
 
