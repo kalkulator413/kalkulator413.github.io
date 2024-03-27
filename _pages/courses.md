@@ -22,7 +22,7 @@ author_profile: true
 - ECE 101: Linear Systems Fundamentals (A)
 - ECE 109: Probability and Statistics (A+)
 - ECE 174: Optimization (A)
-- ECE 250: Random Processes (IP)
+- ECE 250: Random Processes (A)
 
 <!-- -->
 
