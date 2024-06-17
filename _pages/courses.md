@@ -7,12 +7,15 @@ author_profile: true
 
 ### Courses at UCSD:
 
-- MATH 20E: Vector Calculus (IP)
+- MATH 20E: Vector Calculus (A+)
 - MATH 109: Discrete Math (A+)
+- MATH 100A: Abstract Algebra I (PL)
 - MATH 140A: Real Analysis I (A)
 - MATH 140B: Real Analysis II (A+)
-- MATH 140C: Real Analysis III (IP)
+- MATH 140C: Real Analysis III (A)
 - MATH 158: Extremal Graph Theory and Combinatorics (A)
+- MATH 199: Independent Study (PL)
+- MATH 240A: Graduate Real Analysis I (PL)
 
 <!-- -->
 
@@ -29,8 +32,9 @@ author_profile: true
 - CSE 15L: Intro to UNIX/Shell Scripting (A+)
 - CSE 30: Systems Programming (A+)
 - CSE 100: Advanced Data Structures (A+)
-- CSE 140: Digital Logic (IP)
-- CSE 140L: Digital Systems Laboratory (IP)
+- CSE 101: Algorithms (PL)
+- CSE 140: Digital Logic (A+)
+- CSE 140L: Digital Systems Laboratory (A+)
 - CSE 151B: Deep Learning (A+)
 
 <!-- -->
