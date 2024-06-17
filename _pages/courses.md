@@ -14,7 +14,6 @@ author_profile: true
 - MATH 140B: Real Analysis II (A+)
 - MATH 140C: Real Analysis III (A)
 - MATH 158: Extremal Graph Theory and Combinatorics (A)
-- MATH 199: Independent Study (PL)
 - MATH 240A: Graduate Real Analysis I (PL)
 
 <!-- -->
@@ -50,9 +49,10 @@ author_profile: true
 - HUM 2: Rome, Christianity, and the Middle Ages (A-)
 - HUM 3: Renaissance, Reformation, and Early Modern Europe (B+)
 - HUM 4: Enlightenment, Romanticism, Revolution (A)
-- MUS 17: Hip Hop (IP)
+- MUS 17: Hip Hop (P)
 - REV 20: Freshman Honors Seminar (P)
 - SIO 199: Independent Study (P)
+- MATH 199: Independent Study (PL)
 
 <!-- -->
 
