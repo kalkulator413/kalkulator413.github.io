@@ -52,6 +52,7 @@ author_profile: true
 - MUS 17: Hip Hop (P)
 - REV 20: Freshman Honors Seminar (P)
 - SIO 199: Independent Study (P)
+- MATH 96: Putnam Seminar (PL)
 - MATH 199: Independent Study (PL)
 
 <!-- -->
