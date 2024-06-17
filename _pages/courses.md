@@ -39,7 +39,6 @@ author_profile: true
 <!-- -->
 
 - DSC 10: Principles of Data Science (A+)
-- DSC 95: Data Science Tutor Seminar (P)
 - DSC 291: Machine Learning (A)
 
 <!-- -->
@@ -50,10 +49,6 @@ author_profile: true
 - HUM 3: Renaissance, Reformation, and Early Modern Europe (B+)
 - HUM 4: Enlightenment, Romanticism, Revolution (A)
 - MUS 17: Hip Hop (P)
-- REV 20: Freshman Honors Seminar (P)
-- SIO 199: Independent Study (P)
-- MATH 96: Putnam Seminar (PL)
-- MATH 199: Independent Study (PL)
 
 <!-- -->
 
