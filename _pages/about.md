@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an undergraduate student at UCSD. I'm generally interested in optimization, signals, and probability theory.
+Hi! I'm an undergraduate student at UCSD. I'm generally interested in optimization, probability, and real analysis.
 
 You can email me at: fkalkin at ucsd dot edu
 
