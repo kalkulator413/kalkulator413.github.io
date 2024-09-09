@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fnu Kalkin"
+title                    : "Kalkin"
 title_separator          : "-"
-name                     : &name "Fnu Kalkin"
+name                     : &name "Kalkin"
 description              : &description "Student at UCSD"
 url                      : https://kalkulator413.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
