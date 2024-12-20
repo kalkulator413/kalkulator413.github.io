@@ -14,7 +14,7 @@ Fun fact: I don't have a last name
 
 You can email me at: fkalkin at ucsd dot edu
 
-
+Some fun things I did:
 - <a href='files/sum.pdf' target="_blank">here</a> is a cool derivation for $\displaystyle\sum\limits_{n=1}^{\infty} \dfrac{\sin(xn)}{n}$
 - <a href='https://github.com/kalkulator413/JPEG-Compression' target="_blank">here</a> is a JPEG compressor I wrote
 - <a href='https://vis-cape.github.io' target="_blank">here</a> is a GPA visualization for UCSD courses (now outdated ...)
