@@ -19,6 +19,7 @@ author_profile: true
 - MATH 199: Independent Reading
 - MATH 240A: Graduate Real Analysis I
 - MATH 240B: Graduate Real Analysis II
+- MATH 240C: Graduate Real Analysis III
 
 <!-- -->
 
@@ -37,9 +38,12 @@ author_profile: true
 - CSE 30: Systems Programming
 - CSE 100: Advanced Data Structures
 - CSE 101: Algorithms
+- CSE 110: Software Engineering
 - CSE 120: Operating Systems
 - CSE 140: Digital Logic
 - CSE 140L: Digital Systems Laboratory
+- CSE 141: Computer Architecture
+- CSE 141L: Computer Architecture Lab
 - CSE 151B: Deep Learning
 
 <!-- -->
