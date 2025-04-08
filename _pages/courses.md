@@ -67,6 +67,12 @@ author_profile: true
 
 <!-- -->
 
+### Audited coursework:
+- MATH 150A: Differential Geometry
+- PHYS 4B: Fluids, Waves, Statistical and Thermal Physics
+
+<!-- -->
+
 ### Transfer coursework:
 
 - Intro CS, Data Structures from UCB
