@@ -45,6 +45,8 @@ author_profile: true
 - CSE 141: Computer Architecture
 - CSE 141L: Computer Architecture Lab
 - CSE 151B: Deep Learning
+- CSE 291: Physics Simulation
+- CSE 294: Research Seminar
 
 <!-- -->
 
